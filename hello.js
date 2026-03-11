@@ -6,6 +6,9 @@ function hello () {
   return a + b
 }
 
+function bhai() {
+    return 11 + "12"
+}
 
 console.log('alidition')
 
