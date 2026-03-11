@@ -22,3 +22,6 @@ while(i<10){
     console.log(i)
     i+=1;
 }
+
+//pratik add a console
+console.log('add new branch pratik')
