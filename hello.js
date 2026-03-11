@@ -1,6 +1,11 @@
-console.log("hello");
+console.log('hello')
 
 console.log('pd changess')
+
+function hello () {
+  return a + b
+}
+
 
 console.log('alidition')
 
